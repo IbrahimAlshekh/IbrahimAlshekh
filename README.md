@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Fullstack Developer & IT Manager</strong><br/>
   Laravel · React · TypeScript · exploring Rust<br/>
-  Leading IT at <a href="https://smartcon.de">Smartcon GmbH</a>
+  Leading IT at <a href="https://smartcon.de">smartcon GmbH</a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 I'm a Fullstack Developer with 7+ years of experience building web and mobile applications and leading IT teams. I specialize in **PHP/Laravel** on the backend and **React + TypeScript** on the frontend, with a strong focus on clean architecture, system integration, and intuitive UI/UX.
 
-- 🏢 IT Manager & Lead Developer at **Smartcon GmbH**
+- 🏢 IT Manager & Lead Developer at **smartcon GmbH**
 - 🛠️ Building live dashboards, survey platforms, and automated workflows
 - 🎨 UI/UX prototyping with **Figma**
 - 🐧 Linux server administration & database optimization
